@@ -1,0 +1,1 @@
+This interview question deals with building a pascal triangle
