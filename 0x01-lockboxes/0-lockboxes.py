@@ -2,7 +2,8 @@
 """
 Module for solving the "Unlock All Boxes" problem.
 
-This module contains a function `canUnlockAll` that determines whether all boxes
+This module contains a function `canUnlockAll` that determines
+whether all boxes
 in a given list of boxes can be opened or not, given that the first box is
 initially unlocked, and each box may contain keys to other boxes.
 """
